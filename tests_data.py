@@ -20,4 +20,4 @@ class Valid_Data:
     valid_first_name = 'Иван'
     valid_last_name = 'Иванов'
     valid_password = 'Qwertyu0'
-    valid_phoneNumber = '+79504142599'
+    valid_phoneNumber = '+71234567890'
